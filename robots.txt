@@ -1,37 +1,4 @@
-# RBX Quiz Rewards website
+User-agent: *
+Allow: /
 
-Sitio oficial para GitHub Pages.
-
-## URL esperada
-
-https://rbx-quiz-rewards.github.io/
-
-## Archivos importantes
-
-- `index.html`: página principal
-- `privacy.html`: política de privacidad
-- `terms.html`: términos y condiciones
-- `delete-data.html`: eliminación de datos
-- `support.html`: soporte
-- `app-ads.txt`: archivo para AdMob
-- `assets/app-icon.png`: icono de la app
-- `.nojekyll`: evita procesamiento Jekyll
-
-## Cómo subir
-
-1. Entra al repositorio `RBX-Quiz-Rewards.github.io`.
-2. Sube todos estos archivos en la raíz del repositorio.
-3. Ve a Settings > Pages.
-4. Source: Deploy from a branch.
-5. Branch: main / root.
-6. Espera unos minutos y abre https://rbx-quiz-rewards.github.io/
-
-## App-ads.txt
-
-Contenido actual:
-
-```txt
-google.com, pub-2024712392092488, DIRECT, f08c47fec0942fa0
-```
-
-Verifica que el Publisher ID sea exactamente el de tu cuenta AdMob antes de publicar.
+Sitemap: https://rbx-quiz-rewards.github.io/sitemap.xml
